@@ -5,10 +5,12 @@ import { RegisterComponent } from './register.component';
 
 
 
+
 @NgModule({
   declarations: [RegisterComponent],
   imports: [
-    CommonModule
+    CommonModule,
+    
   ],
   exports: [RegisterComponent]
 })

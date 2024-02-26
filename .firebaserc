@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "primarket-25d52": {
+      "hosting": {
+        "final": [
+          "primarket-25d52"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "primarket-25d52"
+  }
+}
